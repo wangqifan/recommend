@@ -10,8 +10,9 @@
 运行
 ------
    * 运行服务注册中心
-   
-   
+  
     ~~~
+    
     java -jar eureka-server-0.0.1-SNAPSHOT.jar
+    
     ~~~
