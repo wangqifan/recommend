@@ -18,12 +18,12 @@
     java -jar webservice-0.0.1-SNAPSHOT.jar
     
     
-    * 运行推荐服务
+   * 运行推荐服务
     
     python run.py
     
     
-    *运行情感分析服务
+   * 运行情感分析服务
     
     python  analyseserver.py
     
